@@ -1,6 +1,6 @@
 # UFPR-ALPR Dataset
 
-<img src="./media/samples.png" width="494" height="282" />
+<img src="./media/samples.png" width="989" height="565" />
 
 This dataset, called UFPR-ALPR dataset, includes 4,500 fully annotated images (over 30,000 LP characters) from 150 vehicles in real-world scenarios where both the vehicle and the camera (inside another vehicle) are moving. It has been introduced in our IJCNN paper [[PDF]](./pdfs/laroca2018robust.pdf).
 
