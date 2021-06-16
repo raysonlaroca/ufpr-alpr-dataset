@@ -17,21 +17,15 @@ The use of the UFPR-ALPR dataset is governed by the following terms and conditio
 
 ## Request Dataset
 
-Please send an e-mail to the main author ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) to download the UFPR-ALPR dataset. **Your e-mail must be sent from a valid university account** and include the following text:
+Please send an e-mail to the first author ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) to download the UFPR-ALPR dataset. **Your e-mail must be sent from a valid university account** and include the following text:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject: Application to download the UFPR-ALPR dataset.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: &lt;your first and last name&gt;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Affiliation: &lt;university where you work&gt;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department: &lt;your department&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current position: &lt;your job title&gt;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: &lt;must be the e-mail at the above-mentioned institution>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have read and agreed to follow the terms and conditions specified in the UFPR-ALPR dataset webpage. This dataset will only be used for research purposes. I will not make any part of this dataset available to a third party. I’ll not sell any part of this dataset or make any profit from its use.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject: Application to download the UFPR-ALPR dataset.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: &lt;your first and last name&gt;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Affiliation: &lt;university where you work&gt;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department: &lt;your department&gt;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current position: &lt;your job title&gt;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: &lt;must be the e-mail at the above-mentioned institution>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have read and agreed to follow the terms and conditions specified in the UFPR-ALPR dataset webpage. This dataset will only be used for research purposes. I will not make any part of this dataset available to a third party. I’ll not sell any part of this dataset or make any profit from its use.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;your signature&gt;
 
 In general, a download link will take 1-3 workdays to issue. Failure to follow the instruction may result in no response.
