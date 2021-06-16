@@ -26,9 +26,9 @@ You can now check who is downloading our dataset (see [**here**](https://www.inf
 
 ## References
 
-If you use the UFPR-ALPR dataset in your research please cite our paper:
+If you use the UFPR-ALPR dataset in your research, please cite our paper:
 
-* R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector” in 2018 International Joint Conference on Neural Networks (IJCNN), July 2018, pp. 1–10. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN.2018.8489629) [[arXiv]](https://arxiv.org/abs/1802.09567)
+* R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “*A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector*” in 2018 International Joint Conference on Neural Networks (IJCNN), July 2018, pp. 1–10. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN.2018.8489629) [[arXiv]](https://arxiv.org/abs/1802.09567)
 
 ```
 @INPROCEEDINGS{laroca2018robust, 
@@ -47,7 +47,7 @@ If you use the UFPR-ALPR dataset in your research please cite our paper:
 
 You may also be interested in our **new research**, where we considerably improved our ALPR system and provided labels for many images from public datasets:
 
-* R. Laroca, L. A. Zanlorensi, G. R. Gonçalves, E. Todt, W. R. Schwartz, D. Menotti, “An Efficient and Layout-Independent Automatic License Plate Recognition System Based on the YOLO Detector,” IET Intelligent Transport Systems, vol. 15, no. 4, pp. 483-503, 2021. [[Wiley]](https://doi.org/10.1049/itr2.12030) [[arXiv]](https://arxiv.org/abs/1909.01754)
+* R. Laroca, L. A. Zanlorensi, G. R. Gonçalves, E. Todt, W. R. Schwartz, D. Menotti, “*An Efficient and Layout-Independent Automatic License Plate Recognition System Based on the YOLO Detector*,” IET Intelligent Transport Systems, vol. 15, no. 4, pp. 483-503, 2021. [[Wiley]](https://doi.org/10.1049/itr2.12030) [[arXiv]](https://arxiv.org/abs/1909.01754)
 
 ## Additional Results
 
@@ -57,15 +57,15 @@ To enable comparisons with approaches designed specifically for cars (i.e., appr
 |:------------------------:|:-----:|:-----------:|:------------------:|
 |     Sighthound (2018)    | 58.4% |     3.3%    |        47.4%       |
 |      OpenALPR (2018)     | 58.0% |    22.8%    |        50.9%       |
-|      [Proposed (2018)](./pdfs/laroca2018robust.pdf)     | 72.2% |    35.6%    |        64.9%       |
-| [Proposed-Extended (2021)](./pdfs/laroca2021efficient.pdf) | 95.9% |    66.3%    |        90.0%       |
+|      [Laroca et al. (2018)](./pdfs/laroca2018robust.pdf)     | 72.2% |    35.6%    |        64.9%       |
+| [Laroca et al. (2021)](./pdfs/laroca2021efficient.pdf) | 95.9% |    66.3%    |        90.0%       |
 
 | ALPR System (with redundancy) |  Cars | Motorcycles | Cars + Motorcycles |
 |:-----------------------------:|:-----:|:-----------:|:------------------:|
 |       Sighthound (2018)       | 70.8% |     0.0%    |        56.7%       |
 |        OpenALPR (2018)        | 89.6% |     0.0%    |        71.7%       |
-|        [Proposed (2018)](./pdfs/laroca2018robust.pdf)        | 83.3% |    58.3%    |        78.3%       |
-|    [Proposed-Extended (2021)](./pdfs/laroca2021efficient.pdf)   | 98.3% |    70.0%    |        92.7%       |
+|        [Laroca et al. (2018)](./pdfs/laroca2018robust.pdf)        | 83.3% |    58.3%    |        78.3%       |
+|    [Laroca et al. (2021)](./pdfs/laroca2021efficient.pdf)   | 98.3% |    70.0%    |        92.7%       |
 
 ## Contact
 
