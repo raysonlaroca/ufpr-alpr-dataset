@@ -52,8 +52,19 @@ You may also be interested in our **new research**, where we considerably improv
 To enable comparisons with approaches designed specifically for cars (i.e., approaches that do not work for motorcycles), here we separately report the recognition rates obtained on images of cars and motorcycles (see table below). All authors who downloaded the dataset were notified of this update on August 2, 2019.
 
 |        ALPR System       |  Cars | Motorcycles | Cars + Motorcycles |
-|:------------------------:|:-----:|:-----------:|--------------------|
-|     Sighthound (2018)    | 58.4% |     3.3%    | 47.4%              |
-|      OpenALPR (2018)     | 58.0% |    22.8%    | 50.9%              |
-|      Proposed (2018)     | 72.2% |    35.6%    | 64.9%              |
-| Proposed-Extended (2021) | 95.9% |    66.3%    | 90.0%              |
+|:------------------------:|:-----:|:-----------:|:------------------:|
+|     Sighthound (2018)    | 58.4% |     3.3%    |        47.4%       |
+|      OpenALPR (2018)     | 58.0% |    22.8%    |        50.9%       |
+|      Proposed (2018)     | 72.2% |    35.6%    |        64.9%       |
+| Proposed-Extended (2021) | 95.9% |    66.3%    |        90.0%       |
+
+| ALPR System (with redundancy) |  Cars | Motorcycles | Cars + Motorcycles |
+|:-----------------------------:|:-----:|:-----------:|:------------------:|
+|       Sighthound (2018)       | 70.8% |     0.0%    |        56.7%       |
+|        OpenALPR (2018)        | 89.6% |     0.0%    |        71.7%       |
+|        Proposed (2018)        | 83.3% |    58.3%    |        78.3%       |
+|    Proposed-Extended (2021)   | 98.3% |    70.0%    |        92.7%       |
+
+## Contact
+
+Please contact Rayson Laroca (rblsantos@inf.ufpr.br) with questions or comments.
