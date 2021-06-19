@@ -24,7 +24,7 @@ Please click [**here**](./license-agreement.md) for more info about obtaining th
 
 You can now check who is downloading our dataset (see [**here**](https://www.inf.ufpr.br/rblsantos/misc/ufpr-alpr-map/)).
 
-## References
+## Citation
 
 If you use the UFPR-ALPR dataset in your research, please cite our paper:
 
@@ -45,7 +45,7 @@ If you use the UFPR-ALPR dataset in your research, please cite our paper:
 }
 ```
 
-You may also be interested in our **new research**, where we considerably improved our ALPR system and provided labels for many images from public datasets:
+You may also be interested in our [**new research**](./pdfs/laroca2021efficient.pdf), where we considerably improved our ALPR system and provided labels for many images from public datasets:
 
 * R. Laroca, L. A. Zanlorensi, G. R. Gonçalves, E. Todt, W. R. Schwartz, D. Menotti, “*An Efficient and Layout-Independent Automatic License Plate Recognition System Based on the YOLO Detector*,” IET Intelligent Transport Systems, vol. 15, no. 4, pp. 483-503, 2021. [[Wiley]](https://doi.org/10.1049/itr2.12030) [[arXiv]](https://arxiv.org/abs/1909.01754)
 
