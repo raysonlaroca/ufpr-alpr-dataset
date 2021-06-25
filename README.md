@@ -14,7 +14,7 @@ The dataset is split as follows: 40% for training, 40% for testing and 20% for v
 
 
 Here are some examples from the dataset:  
-<img src="./media/samples.png" width="989" height="565" />
+<img src="./media/samples.png"/>
 
 ## How to obtain the Dataset
 
