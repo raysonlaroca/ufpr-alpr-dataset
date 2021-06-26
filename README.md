@@ -22,7 +22,7 @@ The UFPR-ALPR dataset is released for academic research only and is free to rese
 
 Please click [**here**](./license-agreement.md) for more info about obtaining the dataset.
 
-You can now check who is downloading our dataset (see [**here**](https://www.inf.ufpr.br/rblsantos/misc/ufpr-alpr-map/)).
+You can now check who is downloading our dataset (see [here](https://www.inf.ufpr.br/rblsantos/misc/ufpr-alpr-map/)).
 
 ## Citation
 
