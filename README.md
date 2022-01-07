@@ -67,6 +67,10 @@ To enable comparisons with approaches designed specifically for cars (i.e., appr
 |        [Laroca et al. (2018)](./pdfs/laroca2018robust.pdf)        | 83.3% |    58.3%    |        78.3%       |
 |    [Laroca et al. (2021)](./pdfs/laroca2021efficient.pdf)   | 98.3% |    70.0%    |        92.7%       |
 
+## Related Works
+
+A list of all articles on ALPR published by us can be seen [here](https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=plate+license+vehicle&as_eq=&as_occt=title&as_sauthors=Rayson+Laroca&as_publication=&as_ylo=2018&as_yhi=&hl=pt-BR&as_sdt=0%2C5).
+
 ## Contact
 
 Please contact Rayson Laroca ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) with questions or comments.
