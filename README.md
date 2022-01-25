@@ -49,6 +49,8 @@ You may also be interested in our [**new research**](./pdfs/laroca2021efficient.
 
 * R. Laroca, L. A. Zanlorensi, G. R. Gonçalves, E. Todt, W. R. Schwartz, D. Menotti, “*An Efficient and Layout-Independent Automatic License Plate Recognition System Based on the YOLO Detector*,” IET Intelligent Transport Systems, vol. 15, no. 4, pp. 483-503, 2021. [[Wiley]](https://doi.org/10.1049/itr2.12030) [[arXiv]](https://arxiv.org/abs/1909.01754)
 
+Additionally, consider showing your support by starring this repository.
+
 ## Additional Results
 
 To enable comparisons with approaches designed specifically for cars (i.e., approaches that do not work for motorcycles), here we separately report the recognition rates obtained on images of cars and motorcycles (see table below). All authors who downloaded the dataset were notified of this update on August 2, 2019.
