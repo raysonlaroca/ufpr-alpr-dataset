@@ -1,6 +1,6 @@
 # UFPR-ALPR Dataset ([Website](https://web.inf.ufpr.br/vri/databases/ufpr-alpr/))
 
-This dataset, called UFPR-ALPR dataset, includes 4,500 fully annotated images (over 30,000 LP characters) from 150 vehicles in real-world scenarios where both the vehicle and the camera (inside another vehicle) are moving. It has been introduced in our IJCNN paper [[PDF]](./pdfs/laroca2018robust.pdf).
+This dataset, called UFPR-ALPR dataset, includes 4,500 fully annotated images (over 30,000 LP characters) from 150 vehicles in real-world scenarios where both the target vehicle and the camera (inside another vehicle) are moving. It has been introduced in our IJCNN paper [[PDF]](./pdfs/laroca2018robust.pdf).
 
 The images were acquired with three different cameras and are available in the Portable Network Graphics (PNG) format with a size of 1,920 × 1,080 pixels. The cameras used were: GoPro Hero4 Silver, Huawei P9 Lite, and iPhone 7 Plus.
 
