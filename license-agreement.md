@@ -46,4 +46,4 @@ Please send an e-mail to the first author ([rblsantos@inf.ufpr.br](mailto:rblsan
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;your signature&gt;
 
-In general, you will receive a download link within 1-3 business days. Failure to follow the instructions may result in no response.
+In general, you will receive a download link within 1-5 business days. Failure to follow the instructions may result in no response.
