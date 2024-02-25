@@ -13,7 +13,7 @@ The use of the UFPR-ALPR dataset is governed by the following terms and conditio
 * For the sake of privacy, all images in this dataset are only allowed for demonstration in academic publications and presentations;
 * All users of the UFPR-ALPR dataset agree to indemnify, defend and hold harmless the VRI Lab, the Department of Informatics and the Federal University of Paraná, their administration, officers, employees and agents, individually and collectively, from any and all losses, expenses, and damages. The user agrees to take full responsibility and pay all damages, claims, judgments or expenses resulting from the use of the UFPR-ALPR dataset.
 * All publications using the UFPR-ALPR dataset should cite the following reference:
-    * R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector” in International Joint Conference on Neural Networks (IJCNN), July 2018, pp. 1–10. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN.2018.8489629) [[arXiv]](https://arxiv.org/abs/1802.09567)
+    * R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector” in International Joint Conference on Neural Networks (IJCNN), pp. 1–10, July 2018. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN.2018.8489629) [[arXiv]](https://arxiv.org/abs/1802.09567)
 
 ```
 @INPROCEEDINGS{laroca2018robust, 
