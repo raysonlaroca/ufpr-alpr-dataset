@@ -28,7 +28,7 @@ You can now check who is downloading our dataset (see [here](https://raysonlaroc
 
 If you use the UFPR-ALPR dataset in your research, please cite our paper:
 
-* R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “*A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector*” in International Joint Conference on Neural Networks (IJCNN), July 2018, pp. 1–10. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN.2018.8489629) [[arXiv]](https://arxiv.org/abs/1802.09567)
+* R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “*A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector*” in International Joint Conference on Neural Networks (IJCNN), pp. 1–10, July 2018. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN.2018.8489629) [[arXiv]](https://arxiv.org/abs/1802.09567)
 
 ```
 @inproceedings{laroca2018robust,
