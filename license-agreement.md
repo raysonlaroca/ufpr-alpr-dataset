@@ -41,9 +41,8 @@ Please send an e-mail to the first author ([rblsantos@inf.ufpr.br](mailto:rblsan
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current position: &lt;your job title&gt;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: &lt;must be the e-mail at the above-mentioned institution>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have read and agreed to follow the terms and conditions specified in the UFPR-ALPR dataset webpage. This dataset will only be used for research purposes. I will not make any part of this dataset available to a third party. I’ll not sell any part of this dataset or make any profit from its use. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;your signature&gt;
+**⚠️ Note:** The agreement paragraph above **must be included** in your message. Requests without it will not be processed.
 
 In general, you will receive a download link within 1-5 business days. If you do not receive it within this timeframe, please check your spam/junk folder. Failure to follow the instructions above may result in no response.
